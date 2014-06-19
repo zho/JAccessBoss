@@ -13,3 +13,6 @@ what you need to do:
 Worked on Windows XP
 
 Plan: Worked on Windows 7 and Windows 8
+
+if you want to try it, you can download the last build on: 
+http://sourceforge.net/projects/jaccessboss/
